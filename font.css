@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'Monaco';
-  src: url('https://cdn.rawgit.com/floyd-creative-contact/aseprite-blockbench-theme/blob/main/monaco.ttf') format:('truetype');
-  font-weight: 100;
+  src: url('https://cdn.jsdelivr.net/gh/floyd-creative-contact/aseprite-blockbench-theme@1412e022351a963c461016d9114a223bd14fd9b5/fonts/monaco.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
 }
