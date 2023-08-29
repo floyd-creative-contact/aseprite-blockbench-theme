@@ -1,6 +1,24 @@
 @font-face{
   font-family: 'Monaco';
-  src: url('https://cdn.jsdelivr.net/gh/floyd-creative-contact/aseprite-blockbench-theme@1412e022351a963c461016d9114a223bd14fd9b5/fonts/monaco.ttf') format('truetype');
+  src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/monaco.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+}
+@font-face {
+  font-family: 'Dogica';
+  src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/dogica.ttf');
+}
+@font-face {
+  font-family: 'Dogica';
+  src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/dogicabold.ttf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'Dogica Pixel';
+  src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/dogicapixel.ttf');
+}
+@font-face {
+  font-family: 'Dogica Pixel';
+  src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/dogicapixelbold.ttf');
+  font-weight: bold;
 }
