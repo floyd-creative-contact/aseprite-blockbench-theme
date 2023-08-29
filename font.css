@@ -22,3 +22,8 @@
   src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/dogicapixelbold.ttf');
   font-weight: bold;
 }
+@font-face {
+  font-family: 'Aseprite Lookalike';
+  src: url('https://github.com/floyd-creative-contact/aseprite-blockbench-theme/raw/main/fonts/aseprite-ui-lookalike.ttf');
+  font-weight: bold;
+}
